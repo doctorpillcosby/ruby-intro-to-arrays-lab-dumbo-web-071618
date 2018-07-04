@@ -27,3 +27,9 @@ def third_element(taylor_swift)
   return my_third_element
   
 end 
+
+def last_element(taylor_swift)
+  my_last_element = taylor_swift[3]
+  return my_last_element
+  
+end 
